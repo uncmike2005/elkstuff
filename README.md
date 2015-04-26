@@ -1,2 +1,2 @@
 # elkstuff
-Trying out ELK at home
+Random Stuff from my ELK Install
